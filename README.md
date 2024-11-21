@@ -31,7 +31,7 @@ Welcome to the Machine Learning Projects Repository! This collection features a 
 
 ---
 
-### **4. Revenue Prediction for Online Shoppers**
+### **4. Predicting Sales Revenue and Weekend Effect with Machine Learning**
 - **Objective**: Predict revenue based on user behavior and shopping patterns.  
 - **Models**: Logistic Regression, Gradient Boosting  
 - **Key Insight**: Ensemble models excelled, with Gradient Boosting achieving a robust F1 score of 0.91.
@@ -45,7 +45,7 @@ Welcome to the Machine Learning Projects Repository! This collection features a 
 
 ---
 
-### **6. Fraud Detection**
+### **6. Comprehensive Fraud Detection**
 - **Objective**: Detect fraudulent transactions from financial datasets.  
 - **Models**: Logistic Regression, Decision Tree  
 - **Key Insight**: Decision Tree achieved high precision by effectively splitting categorical features.
